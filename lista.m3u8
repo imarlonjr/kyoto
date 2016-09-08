@@ -1,0 +1,85 @@
+#PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="IPTV" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="http://www.marlon.eu.org/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nf1bmz9n1/abc_news.png", ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/etFI3o", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xUMhDYK.png", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Band%20Sports.png" tvg-name="Bandsports", BAND Sports
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png", Esporte Interativo
+http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png", Ei Maxx
+http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png", Ei Maxx
+http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
+
+#EXTINF:-1 tvg-logo="", Futura
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/NHK.png" tvg-name="NHK", NHK World
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Novo%20Tempo.png" tvg-name="Novo Tempo", Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Record
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Rede%20Familia.png" tvg-name="Rede Brasil", Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Rede%20Familia.png" tvg-name="Rede Familia", Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/redeminas.png" tvg-name="Rede Minas", Rede Minas
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Rede%20TV.png" tvg-name="Rede TV", Rede TV!
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Rede%20Vida.png" tvg-name="Rede Vida 1", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/RIT.png" tvg-name="RIT", RIT
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT%20HD.png" tvg-name="Sbt", SBT
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png", SporTV
+http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png",SporTV 2
+http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png", SporTV 3
+http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/TV%20Brasil.png" tvg-name="TV Brasil", TV Brasil
+http://stream.ebc.com.br:8080/hls/tvbrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/TV%20Escola.png" tvg-name="TV Escola", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Transamerica
+http://flash1.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="", Yeeah! TV
+http://stmv1.srvstm.com/bruno4119//bruno4119/playlist.m3u8

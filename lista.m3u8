@@ -54,12 +54,6 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/RIT.png" tvg-name="RIT", RIT
 http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT%20HD.png" tvg-name="Sbt", SBT
-http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ohPCj-mqHl0/V8eHVOhsbNI/AAAAAAAAAYc/z4yLq1ZR5YsodGX6PEg2YACVVQnQfca3ACLcB/s400/SBT.png" group-title="Abertos", Sbt
-http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png", SporTV
 http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
 
@@ -75,7 +69,7 @@ http://stream.ebc.com.br:8080/hls/tvbrasil/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/TV%20Escola.png" tvg-name="TV Escola", TV Escola
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/1115/2394/t/3/assets/logo.png" group-title="Filmes & Series", Tv Rbx
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/1115/2394/t/3/assets/logo.png", Tv Rbx
 http://78.129.184.15:4217/streaming/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", TV Transamerica

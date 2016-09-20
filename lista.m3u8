@@ -1,12 +1,15 @@
 #PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="IPTV" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="https://imarlonjr.github.io/kyoto/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/nf1bmz9n1/abc_news.png", ABC NEWS
+#EXTINF:-1 tvg-logo="https://diamundialpoesia.files.wordpress.com/2011/03/el33_logo2001.png" tvg-name="A3 Latino", A3 LATINO
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nf1bmz9n1/abc_news.png" tvg-name="ABC News", ABC NEWS
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://goo.gl/etFI3o", All Sports
+#EXTINF:-1 tvg-logo="http://goo.gl/etFI3o" tvg-name="All Sports", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xUMhDYK.png", Anime TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xUMhDYK.png" tvg-name="Anime TV", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Band%20Sports.png" tvg-name="Bandsports", BAND Sports
@@ -15,10 +18,10 @@ http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png", Esporte Interativo
 http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png", Ei Maxx
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" tvg-name="Ei Maxx", Ei Maxx
 http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png", Ei Maxx
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" tvg-name="Ei Maxx 2", Ei Maxx 2
 http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
 
 #EXTINF:-1 tvg-logo="", Futura
@@ -71,6 +74,9 @@ http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/TV%20Brasil.png" tvg-name="TV Brasil", TV Brasil
 http://stream.ebc.com.br:8080/hls/tvbrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/DqozbW" tvg-name="TV Cultura", TV Cultura
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/TV%20Escola.png" tvg-name="TV Escola", TV Escola
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8

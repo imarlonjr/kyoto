@@ -63,9 +63,6 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Rede%20Vida.png" tvg-name="Rede Vida 1", Rede Vida
 http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/RIT.png" tvg-name="RIT", RIT
-http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT.png" tvg-name="SBT", SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream3/chunklist.m3u8
 

@@ -55,7 +55,7 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT.png" tvg-name="SBT", SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT.png" tvg-name="SBT", SBT HD
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream4/chunklist.m3u8

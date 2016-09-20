@@ -18,9 +18,6 @@ http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Canção Nova", Canção Nova
 http://cnhls-lh.akamaihd.net/i/tvcnmob_1@147036/index_540_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png", EI Nordeste
-http://prim.ingest.topsportslive-live.adaptive.level3.net/hls-live/topsportslive-live/_definst_/live/stream3.m3u8
-
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png", Esporte Interativo
 http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8
 

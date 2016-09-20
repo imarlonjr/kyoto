@@ -54,6 +54,9 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/RIT.png" tvg-name="RIT", RIT
 http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/SBT.png" tvg-name="SBT", SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ryEo3uN.png", SporTV
 http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
 

@@ -15,7 +15,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Band%20Sports.png" tvg-name="Bandsports", BAND Sports
 http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Band%20Sports.png" tvg-name="Canção Nova", Canção Nova
+#EXTINF:-1 tvg-logo="" tvg-name="Canção Nova", Canção Nova
 http://cnhls-lh.akamaihd.net/i/tvcnmob_1@147036/index_540_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png", Esporte Interativo

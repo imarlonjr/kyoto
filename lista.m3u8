@@ -30,6 +30,9 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 #EXTINF:-1 tvg-logo="", Imagem TV
 http://104.156.60.74:1935/imagemtv/imagemtv/chunklist_w214238572.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yMTxoex.jpg" tvg-name="NBA", NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
 #EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/NHK.png" tvg-name="NHK", NHK World
 http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8
 

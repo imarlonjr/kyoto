@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1,Globo
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/2.ts
+#EXTINF:-1,Record
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/6.ts
+#EXTINF:-1,Rede TV
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/4.ts
+#EXTINF:-1,Band
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/5.ts
+#EXTINF:-1,SBT
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/3.ts
+#EXTINF:-1,TV Cultura
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/1.ts
+#EXTINF:-1,TV futura
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/7.ts
+#EXTINF:-1,TC Action
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/9.ts
+#EXTINF:-1,TC Premium
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/8.ts
+#EXTINF:-1,TC Touch
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/12.ts
+#EXTINF:-1,TC Fun
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/10.ts
+#EXTINF:-1,TC Pipoca
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/11.ts
+#EXTINF:-1,TC Cult
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/13.ts
+#EXTINF:-1,HBO
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/14.ts
+#EXTINF:-1,HBO 2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/15.ts
+#EXTINF:-1,HBO Plus
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/18.ts
+#EXTINF:-1,HBO Signature
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/16.ts
+#EXTINF:-1,HBO Family
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/17.ts
+#EXTINF:-1,Universal
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/22.ts
+#EXTINF:-1,TNT
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/30.ts
+#EXTINF:-1,TCM
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/35.ts
+#EXTINF:-1,Studio Universal
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/32.ts
+#EXTINF:-1,Max Prime
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/24.ts
+#EXTINF:-1,Max
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/23.ts
+#EXTINF:-1,TBS
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/33.ts
+#EXTINF:-1,Warner
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/26.ts
+#EXTINF:-1,Paramount
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/34.ts
+#EXTINF:-1,Fox
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/20.ts
+#EXTINF:-1,Space
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/21.ts
+#EXTINF:-1,Sony
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/28.ts
+#EXTINF:-1,Megapix
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/19.ts
+#EXTINF:-1,FX
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/27.ts
+#EXTINF:-1,AXN
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/29.ts
+#EXTINF:-1,Max Up
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/25.ts
+#EXTINF:-1,Cinemax
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/31.ts
+#EXTINF:-1,Sport TV
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/55.ts
+#EXTINF:-1,Sport TV2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/56.ts
+#EXTINF:-1,Sport TV3
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/57.ts
+#EXTINF:-1,Fox Sports
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/63.ts
+#EXTINF:-1,Fox Sports 2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/64.ts
+#EXTINF:-1,ESPN
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/59.ts
+#EXTINF:-1,ESPN +
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/60.ts
+#EXTINF:-1,ESPN Brasil
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/61.ts
+#EXTINF:-1,Band Sports
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/58.ts
+#EXTINF:-1,Ei Maxx
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/65.ts
+#EXTINF:-1,Ei Maxx 2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/66.ts
+#EXTINF:-1,Esporte Interativo
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/67.ts
+#EXTINF:-1,Combate
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/80.ts
+#EXTINF:-1,Premiere Clubes
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/71.ts
+#EXTINF:-1,Premiere 9
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/79.ts
+#EXTINF:-1,Premiere 8
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/78.ts
+#EXTINF:-1,Premiere 7
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/77.ts
+#EXTINF:-1,Premiere 6
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/76.ts
+#EXTINF:-1,Premiere 5
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/75.ts
+#EXTINF:-1,Premiere 4
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/74.ts
+#EXTINF:-1,Premiere 3
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/73.ts
+#EXTINF:-1,Premiere 2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/72.ts
+#EXTINF:-1,Off
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/62.ts
+#EXTINF:-1,Bis
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/37.ts
+#EXTINF:-1,Multishow
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/39.ts
+#EXTINF:-1,MTV
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/38.ts
+#EXTINF:-1,TLC
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/44.ts
+#EXTINF:-1,Viva
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/36.ts
+#EXTINF:-1,GNT
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/40.ts
+#EXTINF:-1,Fox Life
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/43.ts
+#EXTINF:-1,Disney XD
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/85.ts
+#EXTINF:-1,Disney Jr
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/84.ts
+#EXTINF:-1,Disney
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/86.ts
+#EXTINF:-1,Nick Jr.
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/87.ts
+#EXTINF:-1,Nick
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/83.ts
+#EXTINF:-1,Discovery Kids
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/88.ts
+#EXTINF:-1,Gloob
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/81.ts
+#EXTINF:-1,Boomerang
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/89.ts
+#EXTINF:-1,Cartoon Network
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/82.ts
+#EXTINF:-1,Nat Geo
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/45.ts
+#EXTINF:-1,History
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/52.ts
+#EXTINF:-1,H2
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/53.ts
+#EXTINF:-1,Animal Planet
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/51.ts
+#EXTINF:-1,A&E
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/41.ts
+#EXTINF:-1,Discovery
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/46.ts
+#EXTINF:-1,Discovery Turbo
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/49.ts
+#EXTINF:-1,Discovery Science
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/54.ts
+#EXTINF:-1,Discovery ID
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/47.ts
+#EXTINF:-1,Discovery Home & Health
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/48.ts
+#EXTINF:-1,Discovery Civilization
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/50.ts
+#EXTINF:-1,E!
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/42.ts
+#EXTINF:-1,Record News
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/69.ts
+#EXTINF:-1,Band News
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/70.ts
+#EXTINF:-1,Globo News
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/68.ts
+#EXTINF:-1,PlayBoy
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/90.ts
+#EXTINF:-1,Sexy Hot
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/91.ts
+#EXTINF:-1,Sextreme
+http://192.99.148.73:8080/live/j2/GSqdol0hi9/92.ts

@@ -96,14 +96,5 @@ http://78.129.184.15:4217/streaming/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TV Transamerica
 http://flash1.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptv.marlon.eu.org/logos/Vevo.png", Vevo TV 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="", Yeeah! TV
 http://stmv1.srvstm.com/bruno4119//bruno4119/playlist.m3u8

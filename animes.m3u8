@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="IPTV" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="https://imarlonjr.github.io/kyoto/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
 
-Black Bullet - 01
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet", Black Bullet, 01
 https://docs.google.com/file/d/0B6wf9uQWMyOXYm5LRUluRVE0dXM/preview
 Black Bullet - 02
 https://docs.google.com/file/d/0BzfvxcpBv59nUHNPaHZnMnRTRlE/preview

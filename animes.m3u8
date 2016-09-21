@@ -1,23 +1,32 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="IPTV" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="https://imarlonjr.github.io/kyoto/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
-
-#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet", Black Bullet, 01
+#PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="ANIMES KYOTO" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="https://imarlonjr.github.io/kyoto/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 01
 https://docs.google.com/file/d/0B6wf9uQWMyOXYm5LRUluRVE0dXM/preview
-Black Bullet - 02
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 02
 https://docs.google.com/file/d/0BzfvxcpBv59nUHNPaHZnMnRTRlE/preview
-Black Bullet - 03 
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 03
 https://docs.google.com/file/d/0BzfvxcpBv59nS2dITHI3UUl4MTg/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 04
+https://docs.google.com/file/d/0B6eQshzx7Gn1Q0tDTDVFTHhWS0U/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 05
+https://docs.google.com/file/d/0B6eQshzx7Gn1ZnlQa0phSjNaeUU/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 06
+https://docs.google.com/file/d/0B6eQshzx7Gn1VmJtZ01Lb2xUTG8/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 07
+https://docs.google.com/file/d/0BzfvxcpBv59ncmh6bzl0dEUwWkU/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 08
+https://docs.google.com/file/d/0BzfvxcpBv59nMVp4N2JhQlZ5YmM/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 09
+https://docs.google.com/file/d/0B8wHb1vBg3PYZFNGelNaWkltdHM/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 10
+https://docs.google.com/file/d/0B8wHb1vBg3PYQjM5bk80TmtnV0k/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 11
+https://docs.google.com/file/d/0B8wHb1vBg3PYamtyS1QyUm9Qdm8/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 12
+https://docs.google.com/file/d/0B8wHb1vBg3PYN0xkWHd3U1llM1k/preview
+#EXTINF:-1 tvg-logo="" pltv-subgroup="Black Bullet (720p HD)", Black Bullet - 13
+https://docs.google.com/file/d/0B8wHb1vBg3PYc25nLVlKNlBrbU0/preview
 
 
 
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
-https://docs.google.com/file/d/
+https://docs.google.com/file/d/   /preview

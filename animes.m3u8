@@ -1,5 +1,31 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://1.bp.blogspot.com/-JOGS1KgHlbE/UBvjiHXCFEI/AAAAAAAAJDY/s_y3GUAd8sw/s320/Render+-+Tv+-+Baixe+Renders.png" pltv-name="ANIMES" pltv-description="Conteudo ao seu alcance!" pltv-cover="http://i.jootix.com/o/unnamed--9d2aabe991.jpg" pltv-author="Marlon Junio" pltv-site="https://imarlonjr.github.io/kyoto/" pltv-email="imarlonjr@gmail.com" pltv-phone="0000000000"
+
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 01
+https://docs.google.com/file/d/0Bxd0HxpickWjNE1TbTB4QXNkbTg/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 02
+https://docs.google.com/file/d/0Bxd0HxpickWjZk02Rk9DRzI2SjA/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 03
+https://docs.google.com/file/d/0B9xTaMX2RUF0amR3N3dZTzhuZ3c/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 04
+https://docs.google.com/file/d/0B9xTaMX2RUF0YUg2VmV4dGlHOHM/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 05
+https://docs.google.com/file/d/0B9xTaMX2RUF0eTFZZHRiZlNLdlE/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 06
+https://docs.google.com/file/d/0B9xTaMX2RUF0VHRib0pNZnRzYnc/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 07
+https://docs.google.com/file/d/0B9xTaMX2RUF0UElzRUtNcXEzU2s/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 08
+https://docs.google.com/file/d/0B9xTaMX2RUF0QlBCdkNCaDVNVkE/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 09
+https://docs.google.com/file/d/0B9xTaMX2RUF0VVBNd2x3RU1FSDA/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 10
+https://docs.google.com/file/d/0B9xTaMX2RUF0V0pCenY3SVNqa3c/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 11
+https://docs.google.com/file/d/0B9xTaMX2RUF0WENSUWVSY1FTVmc/preview
+#EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2016/03/64813.jpg" group-title="Ao Haru Ride", Episódio 12
+https://docs.google.com/file/d/0B9xTaMX2RUF0V2tLSVMxbU1qbjQ/preview
+
 #EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2014/12/3ee3e-black2bbullet.jpg" group-title="Black Bullet", Episódio 01
 https://docs.google.com/file/d/0B6wf9uQWMyOXYm5LRUluRVE0dXM/preview
 #EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2014/12/3ee3e-black2bbullet.jpg" group-title="Black Bullet", Episódio 02
@@ -26,6 +52,7 @@ https://docs.google.com/file/d/0B8wHb1vBg3PYamtyS1QyUm9Qdm8/preview
 https://docs.google.com/file/d/0B8wHb1vBg3PYN0xkWHd3U1llM1k/preview
 #EXTINF:-1 tvg-logo="http://infinitefansub.com/wp-content/uploads/2014/12/3ee3e-black2bbullet.jpg" group-title="Black Bullet", Episódio 13
 https://docs.google.com/file/d/0B8wHb1vBg3PYc25nLVlKNlBrbU0/preview
+
 
 
 
